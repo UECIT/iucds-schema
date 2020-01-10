@@ -1,0 +1,5 @@
+<xb:config xmlns:xb="http://xml.apache.org/xmlbeans/2004/02/xbean/config">
+  <xb:namespace uri="urn:nhs-itk:ns:201005">
+    <xb:package>uk.nhs.itk</xb:package>
+  </xb:namespace>
+</xb:config>
