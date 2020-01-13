@@ -5,8 +5,6 @@
 * Download the [XMLBeans binary distribution](https://xmlbeans.apache.org/download/index.html#XMLBeans+Binary+and+Development+Kit)
 
 ```shell script
-rm -rf src/main/java src/main/resources
-
 XMLBEANS_ROOT=[xmlbeans_root] ./generate.sh
 ```
 

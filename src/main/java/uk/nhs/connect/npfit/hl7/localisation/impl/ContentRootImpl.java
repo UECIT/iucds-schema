@@ -10,11 +10,11 @@ package uk.nhs.connect.npfit.hl7.localisation.impl;
  * An XML content.root(@NPFIT:HL7:Localisation).
  *
  * This is a union type. Instances are of one of the following types:
- *     uk.nhs.connect.iucds.ucr.Oid
- *     uk.nhs.connect.iucds.ucr.Uuid
- *     uk.nhs.connect.iucds.ucr.Ruid
+ *     uk.nhs.connect.iucds.cda.ucr.Oid
+ *     uk.nhs.connect.iucds.cda.ucr.Uuid
+ *     uk.nhs.connect.iucds.cda.ucr.Ruid
  */
-public class ContentRootImpl extends org.apache.xmlbeans.impl.values.XmlUnionImpl implements uk.nhs.connect.npfit.hl7.localisation.ContentRoot, uk.nhs.connect.iucds.ucr.Oid, uk.nhs.connect.iucds.ucr.Uuid, uk.nhs.connect.iucds.ucr.Ruid
+public class ContentRootImpl extends org.apache.xmlbeans.impl.values.XmlUnionImpl implements uk.nhs.connect.npfit.hl7.localisation.ContentRoot, uk.nhs.connect.iucds.cda.ucr.Oid, uk.nhs.connect.iucds.cda.ucr.Uuid, uk.nhs.connect.iucds.cda.ucr.Ruid
 {
     private static final long serialVersionUID = 1L;
     

@@ -17,22 +17,22 @@ package uk.nhs.connect.npfit.hl7.localisation;
 public interface RecipientRoleCodeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RecipientRoleCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("recipientrolecode6f6fdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RecipientRoleCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("recipientrolecode6f6fdoctype");
     
     /**
      * Gets the "recipientRoleCode" element
      */
-    uk.nhs.connect.iucds.ucr.CV getRecipientRoleCode();
+    uk.nhs.connect.iucds.cda.ucr.CV getRecipientRoleCode();
     
     /**
      * Sets the "recipientRoleCode" element
      */
-    void setRecipientRoleCode(uk.nhs.connect.iucds.ucr.CV recipientRoleCode);
+    void setRecipientRoleCode(uk.nhs.connect.iucds.cda.ucr.CV recipientRoleCode);
     
     /**
      * Appends and returns a new empty "recipientRoleCode" element
      */
-    uk.nhs.connect.iucds.ucr.CV addNewRecipientRoleCode();
+    uk.nhs.connect.iucds.cda.ucr.CV addNewRecipientRoleCode();
     
     /**
      * A factory class with static methods for creating instances

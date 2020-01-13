@@ -13,10 +13,10 @@ package uk.nhs.connect.npfit.hl7.localisation;
  *
  * This is an atomic type that is a restriction of uk.nhs.connect.npfit.hl7.localisation.MessagetypeExtension.
  */
-public interface MessagetypeExtension extends uk.nhs.connect.iucds.ucr.St2
+public interface MessagetypeExtension extends uk.nhs.connect.iucds.cda.ucr.St2
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessagetypeExtension.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("messagetypeextensionfa89type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessagetypeExtension.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("messagetypeextensionfa89type");
     
     /**
      * A factory class with static methods for creating instances

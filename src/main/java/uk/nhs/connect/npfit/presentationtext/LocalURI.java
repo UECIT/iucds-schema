@@ -16,7 +16,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface LocalURI extends org.apache.xmlbeans.XmlAnyURI
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LocalURI.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("localuri42dftype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LocalURI.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("localuri42dftype");
     
     /**
      * A factory class with static methods for creating instances

@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface CaptionDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CaptionDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("caption49dcdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CaptionDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("caption49dcdoctype");
     
     /**
      * Gets the "caption" element
@@ -42,7 +42,7 @@ public interface CaptionDocument extends org.apache.xmlbeans.XmlObject
     public interface Caption extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Caption.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("caption7b4aelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Caption.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("caption7b4aelemtype");
         
         /**
          * Gets the "class" attribute

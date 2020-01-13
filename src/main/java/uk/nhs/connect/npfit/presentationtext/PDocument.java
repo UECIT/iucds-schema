@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface PDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(PDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("pd652doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(PDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("pd652doctype");
     
     /**
      * Gets the "p" element
@@ -42,7 +42,7 @@ public interface PDocument extends org.apache.xmlbeans.XmlObject
     public interface P extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(P.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("p96f6elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(P.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("p96f6elemtype");
         
         /**
          * Gets array of all "p" elements

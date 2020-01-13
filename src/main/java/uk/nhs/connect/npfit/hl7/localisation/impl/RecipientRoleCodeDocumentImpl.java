@@ -28,13 +28,13 @@ public class RecipientRoleCodeDocumentImpl extends org.apache.xmlbeans.impl.valu
     /**
      * Gets the "recipientRoleCode" element
      */
-    public uk.nhs.connect.iucds.ucr.CV getRecipientRoleCode()
+    public uk.nhs.connect.iucds.cda.ucr.CV getRecipientRoleCode()
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.CV target = null;
-            target = (uk.nhs.connect.iucds.ucr.CV)get_store().find_element_user(RECIPIENTROLECODE$0, 0);
+            uk.nhs.connect.iucds.cda.ucr.CV target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.CV)get_store().find_element_user(RECIPIENTROLECODE$0, 0);
             if (target == null)
             {
                 return null;
@@ -46,7 +46,7 @@ public class RecipientRoleCodeDocumentImpl extends org.apache.xmlbeans.impl.valu
     /**
      * Sets the "recipientRoleCode" element
      */
-    public void setRecipientRoleCode(uk.nhs.connect.iucds.ucr.CV recipientRoleCode)
+    public void setRecipientRoleCode(uk.nhs.connect.iucds.cda.ucr.CV recipientRoleCode)
     {
         generatedSetterHelperImpl(recipientRoleCode, RECIPIENTROLECODE$0, 0, org.apache.xmlbeans.impl.values.XmlObjectBase.KIND_SETTERHELPER_SINGLETON);
     }
@@ -54,13 +54,13 @@ public class RecipientRoleCodeDocumentImpl extends org.apache.xmlbeans.impl.valu
     /**
      * Appends and returns a new empty "recipientRoleCode" element
      */
-    public uk.nhs.connect.iucds.ucr.CV addNewRecipientRoleCode()
+    public uk.nhs.connect.iucds.cda.ucr.CV addNewRecipientRoleCode()
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.CV target = null;
-            target = (uk.nhs.connect.iucds.ucr.CV)get_store().add_element_user(RECIPIENTROLECODE$0);
+            uk.nhs.connect.iucds.cda.ucr.CV target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.CV)get_store().add_element_user(RECIPIENTROLECODE$0);
             return target;
         }
     }

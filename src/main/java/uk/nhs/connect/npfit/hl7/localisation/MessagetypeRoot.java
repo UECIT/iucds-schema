@@ -12,11 +12,11 @@ package uk.nhs.connect.npfit.hl7.localisation;
  * An XML messagetype.root(@NPFIT:HL7:Localisation).
  *
  * This is a union type. Instances are of one of the following types:
- *     uk.nhs.connect.iucds.ucr.Oid
- *     uk.nhs.connect.iucds.ucr.Uuid
- *     uk.nhs.connect.iucds.ucr.Ruid
+ *     uk.nhs.connect.iucds.cda.ucr.Oid
+ *     uk.nhs.connect.iucds.cda.ucr.Uuid
+ *     uk.nhs.connect.iucds.cda.ucr.Ruid
  */
-public interface MessagetypeRoot extends uk.nhs.connect.iucds.ucr.Uid
+public interface MessagetypeRoot extends uk.nhs.connect.iucds.cda.ucr.Uid
 {
     java.lang.Object getObjectValue();
     void setObjectValue(java.lang.Object val);
@@ -26,7 +26,7 @@ public interface MessagetypeRoot extends uk.nhs.connect.iucds.ucr.Uid
     void objectSet(java.lang.Object val);
     org.apache.xmlbeans.SchemaType instanceType();
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessagetypeRoot.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("messagetyperoot39datype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessagetypeRoot.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("messagetyperoot39datype");
     
     /**
      * A factory class with static methods for creating instances

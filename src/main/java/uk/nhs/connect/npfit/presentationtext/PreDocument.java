@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface PreDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(PreDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("precabfdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(PreDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("precabfdoctype");
     
     /**
      * Gets the "pre" element
@@ -42,7 +42,7 @@ public interface PreDocument extends org.apache.xmlbeans.XmlObject
     public interface Pre extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Pre.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("pre7550elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Pre.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("pre7550elemtype");
         
         /**
          * Gets the "id" attribute

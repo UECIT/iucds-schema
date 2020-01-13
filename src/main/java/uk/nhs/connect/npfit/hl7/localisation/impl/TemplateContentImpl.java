@@ -11,7 +11,7 @@ package uk.nhs.connect.npfit.hl7.localisation.impl;
  *
  * This is a complex type.
  */
-public class TemplateContentImpl extends uk.nhs.connect.iucds.ucr.impl.IIImpl implements uk.nhs.connect.npfit.hl7.localisation.TemplateContent
+public class TemplateContentImpl extends uk.nhs.connect.iucds.cda.ucr.impl.IIImpl implements uk.nhs.connect.npfit.hl7.localisation.TemplateContent
 {
     private static final long serialVersionUID = 1L;
     
@@ -47,13 +47,13 @@ public class TemplateContentImpl extends uk.nhs.connect.iucds.ucr.impl.IIImpl im
     /**
      * Gets (as xml) the "root" attribute
      */
-    public uk.nhs.connect.iucds.ucr.Uid xgetRoot()
+    public uk.nhs.connect.iucds.cda.ucr.Uid xgetRoot()
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.Uid target = null;
-            target = (uk.nhs.connect.iucds.ucr.Uid)get_store().find_attribute_user(ROOT$0);
+            uk.nhs.connect.iucds.cda.ucr.Uid target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.Uid)get_store().find_attribute_user(ROOT$0);
             return target;
         }
     }
@@ -91,16 +91,16 @@ public class TemplateContentImpl extends uk.nhs.connect.iucds.ucr.impl.IIImpl im
     /**
      * Sets (as xml) the "root" attribute
      */
-    public void xsetRoot(uk.nhs.connect.iucds.ucr.Uid root)
+    public void xsetRoot(uk.nhs.connect.iucds.cda.ucr.Uid root)
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.Uid target = null;
-            target = (uk.nhs.connect.iucds.ucr.Uid)get_store().find_attribute_user(ROOT$0);
+            uk.nhs.connect.iucds.cda.ucr.Uid target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.Uid)get_store().find_attribute_user(ROOT$0);
             if (target == null)
             {
-                target = (uk.nhs.connect.iucds.ucr.Uid)get_store().add_attribute_user(ROOT$0);
+                target = (uk.nhs.connect.iucds.cda.ucr.Uid)get_store().add_attribute_user(ROOT$0);
             }
             target.set(root);
         }
@@ -139,13 +139,13 @@ public class TemplateContentImpl extends uk.nhs.connect.iucds.ucr.impl.IIImpl im
     /**
      * Gets (as xml) the "extension" attribute
      */
-    public uk.nhs.connect.iucds.ucr.St2 xgetExtension()
+    public uk.nhs.connect.iucds.cda.ucr.St2 xgetExtension()
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.St2 target = null;
-            target = (uk.nhs.connect.iucds.ucr.St2)get_store().find_attribute_user(EXTENSION$2);
+            uk.nhs.connect.iucds.cda.ucr.St2 target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.St2)get_store().find_attribute_user(EXTENSION$2);
             return target;
         }
     }
@@ -183,16 +183,16 @@ public class TemplateContentImpl extends uk.nhs.connect.iucds.ucr.impl.IIImpl im
     /**
      * Sets (as xml) the "extension" attribute
      */
-    public void xsetExtension(uk.nhs.connect.iucds.ucr.St2 extension)
+    public void xsetExtension(uk.nhs.connect.iucds.cda.ucr.St2 extension)
     {
         synchronized (monitor())
         {
             check_orphaned();
-            uk.nhs.connect.iucds.ucr.St2 target = null;
-            target = (uk.nhs.connect.iucds.ucr.St2)get_store().find_attribute_user(EXTENSION$2);
+            uk.nhs.connect.iucds.cda.ucr.St2 target = null;
+            target = (uk.nhs.connect.iucds.cda.ucr.St2)get_store().find_attribute_user(EXTENSION$2);
             if (target == null)
             {
-                target = (uk.nhs.connect.iucds.ucr.St2)get_store().add_attribute_user(EXTENSION$2);
+                target = (uk.nhs.connect.iucds.cda.ucr.St2)get_store().add_attribute_user(EXTENSION$2);
             }
             target.set(extension);
         }

@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface H2Document extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H2Document.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("h219e6doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H2Document.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("h219e6doctype");
     
     /**
      * Gets the "h2" element
@@ -42,7 +42,7 @@ public interface H2Document extends org.apache.xmlbeans.XmlObject
     public interface H2 extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H2.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("h20fccelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H2.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("h20fccelemtype");
         
         /**
          * Gets the "id" attribute

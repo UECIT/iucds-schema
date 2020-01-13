@@ -1,6 +1,6 @@
 <xb:config xmlns:xb="http://xml.apache.org/xmlbeans/2004/02/xbean/config">
   <xb:namespace uri="urn:hl7-org:v3">
-    <xb:package>uk.nhs.connect.iucds.ucr</xb:package>
+    <xb:package>uk.nhs.connect.iucds.cda.ucr</xb:package>
   </xb:namespace>
   <xb:namespace uri="NPFIT:HL7:Localisation">
     <xb:package>uk.nhs.connect.npfit.hl7.localisation</xb:package>

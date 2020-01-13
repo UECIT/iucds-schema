@@ -13,10 +13,10 @@ package uk.nhs.connect.npfit.hl7.localisation;
  *
  * This is a complex type.
  */
-public interface MessageType extends uk.nhs.connect.iucds.ucr.II
+public interface MessageType extends uk.nhs.connect.iucds.cda.ucr.II
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sEB085C7A72CF0D5D84903172D46F8E5B").resolveHandle("messagetype1308type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("messagetype1308type");
     
     /**
      * Gets the "root" attribute
@@ -26,7 +26,7 @@ public interface MessageType extends uk.nhs.connect.iucds.ucr.II
     /**
      * Gets (as xml) the "root" attribute
      */
-    uk.nhs.connect.iucds.ucr.Uid xgetRoot();
+    uk.nhs.connect.iucds.cda.ucr.Uid xgetRoot();
     
     /**
      * True if has "root" attribute
@@ -41,7 +41,7 @@ public interface MessageType extends uk.nhs.connect.iucds.ucr.II
     /**
      * Sets (as xml) the "root" attribute
      */
-    void xsetRoot(uk.nhs.connect.iucds.ucr.Uid root);
+    void xsetRoot(uk.nhs.connect.iucds.cda.ucr.Uid root);
     
     /**
      * Unsets the "root" attribute
@@ -56,7 +56,7 @@ public interface MessageType extends uk.nhs.connect.iucds.ucr.II
     /**
      * Gets (as xml) the "extension" attribute
      */
-    uk.nhs.connect.iucds.ucr.St2 xgetExtension();
+    uk.nhs.connect.iucds.cda.ucr.St2 xgetExtension();
     
     /**
      * True if has "extension" attribute
@@ -71,7 +71,7 @@ public interface MessageType extends uk.nhs.connect.iucds.ucr.II
     /**
      * Sets (as xml) the "extension" attribute
      */
-    void xsetExtension(uk.nhs.connect.iucds.ucr.St2 extension);
+    void xsetExtension(uk.nhs.connect.iucds.cda.ucr.St2 extension);
     
     /**
      * Unsets the "extension" attribute
