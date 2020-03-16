@@ -17,7 +17,7 @@ package uk.nhs.itk;
 public interface ToolkitErrorInfoDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ToolkitErrorInfoDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2E0732AA58F8C76F8FC963D103E60866").resolveHandle("toolkiterrorinfo87d1doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ToolkitErrorInfoDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0507910213A0A5EFBE69DF14BF9CC2C5").resolveHandle("toolkiterrorinfo87d1doctype");
     
     /**
      * Gets the "ToolkitErrorInfo" element

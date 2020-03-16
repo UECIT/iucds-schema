@@ -16,7 +16,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface BodyType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(BodyType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("bodytypebac4type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(BodyType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("bodytypebac4type");
     
     /**
      * Gets array of all "h2" elements
