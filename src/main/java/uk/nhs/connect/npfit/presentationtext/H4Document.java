@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface H4Document extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H4Document.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("h47124doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H4Document.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("h47124doctype");
     
     /**
      * Gets the "h4" element
@@ -42,7 +42,7 @@ public interface H4Document extends org.apache.xmlbeans.XmlObject
     public interface H4 extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H4.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("h4e68celemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(H4.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("h4e68celemtype");
         
         /**
          * Gets the "id" attribute

@@ -16,7 +16,7 @@ package uk.nhs.itk;
 public interface ToolkitErrorInfoStruct extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ToolkitErrorInfoStruct.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2E0732AA58F8C76F8FC963D103E60866").resolveHandle("toolkiterrorinfostructb336type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ToolkitErrorInfoStruct.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0507910213A0A5EFBE69DF14BF9CC2C5").resolveHandle("toolkiterrorinfostructb336type");
     
     /**
      * Gets the "ErrorID" element
@@ -111,7 +111,7 @@ public interface ToolkitErrorInfoStruct extends org.apache.xmlbeans.XmlObject
     public interface ErrorCode extends org.apache.xmlbeans.XmlString
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ErrorCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2E0732AA58F8C76F8FC963D103E60866").resolveHandle("errorcoded6b5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ErrorCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0507910213A0A5EFBE69DF14BF9CC2C5").resolveHandle("errorcoded6b5elemtype");
         
         /**
          * Gets the "codeSystem" attribute

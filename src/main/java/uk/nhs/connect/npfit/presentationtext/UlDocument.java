@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface UlDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(UlDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("ul2739doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(UlDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("ul2739doctype");
     
     /**
      * Gets the "ul" element
@@ -42,7 +42,7 @@ public interface UlDocument extends org.apache.xmlbeans.XmlObject
     public interface Ul extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Ul.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("ul6bacelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Ul.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("ul6bacelemtype");
         
         /**
          * Gets array of all "li" elements

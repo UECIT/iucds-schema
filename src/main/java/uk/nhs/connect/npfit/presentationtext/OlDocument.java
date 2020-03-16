@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface OlDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(OlDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("ol75b3doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(OlDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("ol75b3doctype");
     
     /**
      * Gets the "ol" element
@@ -42,7 +42,7 @@ public interface OlDocument extends org.apache.xmlbeans.XmlObject
     public interface Ol extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Ol.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("ol67ecelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Ol.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("ol67ecelemtype");
         
         /**
          * Gets array of all "li" elements

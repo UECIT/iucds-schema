@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.hl7.localisation;
 public interface MessageTypeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageTypeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("messagetype816adoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageTypeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("messagetype816adoctype");
     
     /**
      * Gets the "messageType" element
