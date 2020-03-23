@@ -30,3 +30,7 @@ java -cp "$XMLBEANS_ROOT"/lib/xmlbeans-3.1.0.jar org.apache.xmlbeans.impl.tool.S
 java -cp "$XMLBEANS_ROOT"/lib/xmlbeans-3.1.0.jar org.apache.xmlbeans.impl.tool.SchemaCompiler \
 -src src/main/java -d src/main/resources -javasource 11 -verbose \
 src/main/schema/ITKSchemas/distributionEnvelope-v2-0.xsd itk-envelope.xsdconfig
+
+java -cp "$XMLBEANS_ROOT"/lib/xmlbeans-3.1.0.jar org.apache.xmlbeans.impl.tool.SchemaCompiler \
+-src src/main/java -d src/main/resources -javasource 11 -verbose \
+src/main/schema/Pathways/pathwaysCase_v2.4.xsd pathways.xsdconfig
