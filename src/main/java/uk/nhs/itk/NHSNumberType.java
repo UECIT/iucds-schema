@@ -16,7 +16,7 @@ package uk.nhs.itk;
 public interface NHSNumberType extends org.apache.xmlbeans.XmlString
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NHSNumberType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2E0732AA58F8C76F8FC963D103E60866").resolveHandle("nhsnumbertype1a93type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NHSNumberType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0507910213A0A5EFBE69DF14BF9CC2C5").resolveHandle("nhsnumbertype1a93type");
     
     /**
      * A factory class with static methods for creating instances

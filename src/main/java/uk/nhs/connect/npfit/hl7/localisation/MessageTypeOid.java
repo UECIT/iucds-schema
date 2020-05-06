@@ -26,7 +26,7 @@ public interface MessageTypeOid extends uk.nhs.connect.npfit.hl7.localisation.Me
     void objectSet(java.lang.Object val);
     org.apache.xmlbeans.SchemaType instanceType();
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageTypeOid.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("messagetypeoid19ectype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageTypeOid.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("messagetypeoid19ectype");
     
     /**
      * A factory class with static methods for creating instances

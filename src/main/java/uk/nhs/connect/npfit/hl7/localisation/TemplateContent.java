@@ -16,7 +16,7 @@ package uk.nhs.connect.npfit.hl7.localisation;
 public interface TemplateContent extends uk.nhs.connect.iucds.cda.ucr.II
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TemplateContent.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("templatecontente504type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TemplateContent.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("templatecontente504type");
     
     /**
      * Gets the "root" attribute

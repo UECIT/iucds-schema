@@ -17,7 +17,7 @@ package uk.nhs.itk;
 public interface SimpleMessageResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SimpleMessageResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s2E0732AA58F8C76F8FC963D103E60866").resolveHandle("simplemessageresponse085ddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SimpleMessageResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0507910213A0A5EFBE69DF14BF9CC2C5").resolveHandle("simplemessageresponse085ddoctype");
     
     /**
      * Gets the "SimpleMessageResponse" element

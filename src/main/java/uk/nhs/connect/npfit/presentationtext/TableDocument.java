@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface TableDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TableDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("table7b34doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TableDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("table7b34doctype");
     
     /**
      * Gets the "table" element
@@ -42,7 +42,7 @@ public interface TableDocument extends org.apache.xmlbeans.XmlObject
     public interface Table extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Table.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("table653aelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Table.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("table653aelemtype");
         
         /**
          * Gets the "caption" element

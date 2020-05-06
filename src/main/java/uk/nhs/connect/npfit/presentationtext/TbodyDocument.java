@@ -17,7 +17,7 @@ package uk.nhs.connect.npfit.presentationtext;
 public interface TbodyDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TbodyDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("tbody9becdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TbodyDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("tbody9becdoctype");
     
     /**
      * Gets the "tbody" element
@@ -42,7 +42,7 @@ public interface TbodyDocument extends org.apache.xmlbeans.XmlObject
     public interface Tbody extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Tbody.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s4BABE8FDCEE77C72D65F874A86ECBDEB").resolveHandle("tbody6eaaelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Tbody.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sD1B8CF57A1090BFEB260E672565E6976").resolveHandle("tbody6eaaelemtype");
         
         /**
          * Gets array of all "tr" elements

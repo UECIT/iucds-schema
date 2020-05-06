@@ -2,4 +2,5 @@
 /.idea/
 *.iml
 /src/main/resources/uk
+/src/main/resources/org
 *.jar
